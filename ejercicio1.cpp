@@ -1,3 +1,8 @@
+// ============================================
+// Practica de Laboratorio: Estructuras Repetitivas
+// Ejercicio 1: Contador con bucle while
+// ============================================
+
 #include <iostream>
 using namespace std;
 
