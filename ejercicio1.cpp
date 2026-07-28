@@ -13,6 +13,10 @@ int main() {
         cin >> numero;
     }
     cout << "===========================================" << endl;
-    cout << "Ha ingresado un total de " << contador << " numeros." << endl;
+    if (contador == 0) {
+        cout << "No ingresaste ningun numero valido antes del 0." << endl;
+    } else {
+        cout << "Ha ingresado un total de " << contador << " numeros." << endl;
+    }
     return 0;
 }
