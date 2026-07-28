@@ -1,1 +1,1 @@
-# Ejercicios de Estructuras Repetitivas
+# estructuras_repetitivas
